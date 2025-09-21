@@ -1,4 +1,4 @@
-# About perusahaan-berbasis-web
+# About si-perusahaan-berbasis-web
 A web-based **Company Information System** built using PHP Native without a framework. This system helps manage employees, departments, projects, and payroll with a simple and user-friendly interface.
 
 ## **🚀 Key Features:**
