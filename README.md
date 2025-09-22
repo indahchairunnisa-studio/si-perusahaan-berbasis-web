@@ -28,11 +28,12 @@ A web based **Company Information System** built using PHP Native without a fram
 
 ## **🛠️ Technologies Used**
   - PHP Native (no framework)
+  - PHP version: 8.0.28
   - MySQL (Port 3306) for database
   - phpMyAdmin for database management
-  - XAMPP as local server environment
+  - XAMPP v3.3.0 as local server environment
   - Visual Studio Code (VS Code) as main code editor
-  -  HTML, CSS, JavaScript for frontend
+  - HTML, CSS, JavaScript for frontend
 
 ## **⚙️ Installation**
   - Install XAMPP and ensure MySQL is running on port 3306.
@@ -45,4 +46,3 @@ A web based **Company Information System** built using PHP Native without a fram
 
 ## **📜 License**
   - **This project is not free to use, copy, or redistribute without explicit permission.** Some essential files have been removed or intentionally modified, so the project is **not fully functional**. If you wish to use or modify this **Company Information System**, please contact the developer first via email: **ichachairunnisa954@gmail.com**
-
